@@ -1,16 +1,12 @@
-### Hi there 👋
+Hola, I'm Sri  Ratnavalli Dhulipala! 👋
 
-<!--
-**dsrvalli/dsrvalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Microservices.
+🌱 I’m currently learning more about Docker,kubernetes
+👯 I’m looking to collaborate on youtube(soon).
+🤔 I’m looking for help with rabbitmq & kafka.
+💬 Ask me about Spring,Java8,Advance Java or any tech-related stuff.
+📫 How to reach me: 
+😄 Pronouns: She/Her
+⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+ 
+ https://github-readme-stats.vercel.app/api?username=dsrvalli&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
