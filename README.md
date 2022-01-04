@@ -14,7 +14,7 @@ Hola, I'm Sri  Ratnavalli Dhulipala! 👋
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=dsrvalli&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/dsrvalli/github-readme-stats)"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrvalli&layout=compact)](https://github.com/dsrvalli/github-readme-stats"> 
 
 
 
